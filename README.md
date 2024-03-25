@@ -1,2 +1,2 @@
-# sf
-SiteForge AI Powered Content Generation
+# SiteForge
+SiteForge.io is an AI-powered platform designed to revolutionize the process of website content creation and site structuring. It serves as an intuitive, efficient solution for creating and managing website content that aligns with a brand's voice and identity, catering especially to small business owners, digital agencies, and marketing teams. The platform optimizes online presence through AI that plans and tailors a site's structure, ensuring the content resonates with audiences and search engines alike. This automation extends to generating SEO-optimized sites, automating site planning with AI-generated website structures, brainstorming content, planning page structures, and writing content for website pages
